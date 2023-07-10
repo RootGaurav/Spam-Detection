@@ -1,2 +1,2 @@
 # Spam-Detection
-Model to detect if an emial is a spam or not.
+Model to detect if an email is a spam or not.
